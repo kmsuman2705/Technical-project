@@ -5,7 +5,6 @@ Welcome to the Interactive Web Application powered by LangChain Integration! Thi
 Our project stands as a user-friendly, menu-driven web application, enabling users to seamlessly engage with a wide range of backend Python scripts via an intuitive HTML/CSS frontend. It harnesses the capabilities of LangChain, an open-source framework, to elevate its feature set. Here are some prominent features: 			
 
  	•Date and Time Retrieval: Instantly retrieve the current date and time.	
- 
  	•Calculator: Perform calculations right within your web browser.	
 	•IP Information: Easily access your IP address.	
  	•Email Sending: Send emails directly from the application.
@@ -21,9 +20,9 @@ Our project stands as a user-friendly, menu-driven web application, enabling use
 # LangChain Integration
 Our project leverages LangChain, an open-source framework, to supercharge our web application with advanced natural language
 processing capabilities. Here's how LangChain enhances our application:
-•Advanced NLP: LangChain taps into cutting-edge language models for accurate and context-aware responses.
-•Data Responsiveness: It connects our app to data sources, ensuring more comprehensive and relevant interactions.
-•Intelligent Decisions: LangChain empowers our app to make smart decisions and adapt to user needs.
+	•Advanced NLP: LangChain taps into cutting-edge language models for accurate and context-aware responses.
+	•Data Responsiveness: It connects our app to data sources, ensuring more comprehensive and relevant interactions.
+	•Intelligent Decisions: LangChain empowers our app to make smart decisions and adapt to user needs.
 
 
 
