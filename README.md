@@ -6,7 +6,23 @@ Our project stands as a user-friendly, menu-driven web application, enabling use
 
  •Date and Time Retrieval: Instantly retrieve the current date and time.	
  
- •Calculator: Perform calculations right within your web browser.    
+ •Calculator: Perform calculations right within your web browser.	
+	
+•	IP Information: Easily access your IP address.	
+•	Email Sending: Send emails directly from the application.
+•	AWS EC2 Management: Efficiently launch and query EC2 instances on AWS.
+•	AWS S3 Bucket Creation: Create S3 buckets effortlessly on AWS.
+•	File Upload to S3: Seamlessly upload files to AWS S3 buckets.
+•	WhatsApp Messaging: Send messages via WhatsApp, integrated for convenience.
+•	Live Linux Compiler: Compile and run Linux code in real-time, enhancing development workflows.
+•	Docker Status Checker: Quickly check the status of your Docker containers.
+•	Wikipedia Query: Leverage LangChain to provide answers to questions from Wikipedia.
+•	Webserver Configuration: Configure your webserver with ease.
+
+# LangChain Integration
+
+
+
 
 
 
