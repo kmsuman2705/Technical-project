@@ -20,8 +20,11 @@ Our project stands as a user-friendly, menu-driven web application, enabling use
 # LangChain Integration
 Our project leverages LangChain, an open-source framework, to supercharge our web application with advanced natural language
 processing capabilities. Here's how LangChain enhances our application:
+
 	•Advanced NLP: LangChain taps into cutting-edge language models for accurate and context-aware responses.
+ 	
 	•Data Responsiveness: It connects our app to data sources, ensuring more comprehensive and relevant interactions.
+ 
 	•Intelligent Decisions: LangChain empowers our app to make smart decisions and adapt to user needs.
 
 
