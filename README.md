@@ -22,10 +22,8 @@ Our project leverages LangChain, an open-source framework, to supercharge our we
 processing capabilities. Here's how LangChain enhances our application:
 
 	•Advanced NLP: LangChain taps into cutting-edge language models for accurate and context-aware responses.
- 	
-	•Data Responsiveness: It connects our app to data sources, ensuring more comprehensive and relevant interactions.
- 
-	•Intelligent Decisions: LangChain empowers our app to make smart decisions and adapt to user needs.
+ 	•Data Responsiveness: It connects our app to data sources, ensuring more comprehensive and relevant interactions.
+ 	•Intelligent Decisions: LangChain empowers our app to make smart decisions and adapt to user needs.
 
 
 
